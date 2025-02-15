@@ -1,5 +1,4 @@
 # Professional-README-Generator
-# Professional README Generator
 
 ## Description
 "This command-line application dynamically generates a professional and high-quality README.md file based on user input. The app prompts the user for key information such as project title, description, installation instructions, usage guidelines, license, contribution instructions, test instructions, GitHub username, and email address. It then compiles the user’s responses into a structured README with a functional table of contents, making it easier for developers to quickly generate a comprehensive README for their open-source projects."
@@ -7,6 +6,7 @@
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -21,6 +21,8 @@
 
 ## Usage
  "After the application is installed, you can generate a professional README for your project by running the following command in the terminal:node index.jsOnce executed, the application will prompt you to input various pieces of information for your README file, such as the project title, description, installation instructions, usage information, license, contribution guidelines, test instructions, GitHub username, and email address.After you provide the necessary information, the app will generate a README.md file in the current directory with all the details you provided. This file will include a structured layout with a functional Table of Contents that links to each section."
+
+## Demo
 
 ## License
 This project is licensed under the MIT license.
