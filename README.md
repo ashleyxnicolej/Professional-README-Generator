@@ -23,6 +23,8 @@
  "After the application is installed, you can generate a professional README for your project by running the following command in the terminal:node index.jsOnce executed, the application will prompt you to input various pieces of information for your README file, such as the project title, description, installation instructions, usage information, license, contribution guidelines, test instructions, GitHub username, and email address.After you provide the necessary information, the app will generate a README.md file in the current directory with all the details you provided. This file will include a structured layout with a functional Table of Contents that links to each section."
 
 ## Demo
+https://www.loom.com/share/592c9d1602e64ff08db6e68443b42734?sid=fc50a4aa-342d-409c-b539-122aabba42aa
+
 
 ## License
 This project is licensed under the MIT license.
