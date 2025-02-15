@@ -1,7 +1,7 @@
 # Professional-README-Generator
 
 ## Description
-"This command-line application dynamically generates a professional and high-quality README.md file based on user input. The app prompts the user for key information such as project title, description, installation instructions, usage guidelines, license, contribution instructions, test instructions, GitHub username, and email address. It then compiles the user’s responses into a structured README with a functional table of contents, making it easier for developers to quickly generate a comprehensive README for their open-source projects."
+This command-line application dynamically generates a professional and high-quality README.md file based on user input. The app prompts the user for key information such as project title, description, installation instructions, usage guidelines, license, contribution instructions, test instructions, GitHub username, and email address. It then compiles the user’s responses into a structured README with a functional table of contents, making it easier for developers to quickly generate a comprehensive README for their open-source projects.
 
 ## Table of Contents
 - [Installation](#installation)
