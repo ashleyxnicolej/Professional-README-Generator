@@ -60,19 +60,19 @@ Contributions are welcome! To contribute, follow these steps:
 
 2. Clone your fork to your local machine:
 
-git clone https://github.com/your-username/professional-readme-generator.git
+   git clone https://github.com/your-username/professional-readme-generator.git
 
 3. Create a new branch for your feature:
 
-git checkout -b feature-name
+   git checkout -b feature-name
 
 4. Make your changes and commit them:
 
-git commit -m "Added new feature for README generation"
+   git commit -m "Added new feature for README generation"
 
 5. Push to your branch:
 
-git push origin feature-name
+   git push origin feature-name
 
 6. Create a pull request on GitHub.
 
