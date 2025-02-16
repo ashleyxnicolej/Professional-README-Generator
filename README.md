@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Professional README Generator 2.0
-
-## Description
-this is my demo for a professional readme
-=======
 # Professional-README-Generator
 
 ## Description
