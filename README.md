@@ -15,19 +15,13 @@ This command-line application dynamically generates a high-quality README.md fil
  Generates a clickable Table of Contents for easy navigation
 
 ## Table of Contents: 
-   - [Installation] (#installation)
-     
-   - [Usage] (#usage)
-
-   - [Features] (#features)
-
-   - [License] (#license)
-
-   - [Contributing] (#contributing)
-
-   - [Tests] (#tests)
-
-   - [Questions] (#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
 
 ## Installation: 
