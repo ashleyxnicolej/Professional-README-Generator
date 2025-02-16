@@ -1,5 +1,5 @@
 import inquirer from 'inquirer';
-import fs from 'fs';
+import * as fs from 'fs';
 
 // Prompt questions for user input
 const questions = [
