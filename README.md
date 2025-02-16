@@ -82,6 +82,7 @@ npm test
 For any questions, feel free to reach out:
 
 GitHub: ashleyxnicolej
+
 Email: ashleyjackson439@gmail.com
 
 This project was built to streamline the process of writing clear and professional README documentation for developers. 🚀
